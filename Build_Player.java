@@ -1,4 +1,4 @@
-package LUDO; 
+package LUDO;
 
 import java.awt.Graphics2D; 
 
