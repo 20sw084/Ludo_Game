@@ -1,7 +1,7 @@
 package LUDO;
 // package LUDO_BUILD;
 
-import javax.swing.JFrame; 
+import javax.swing.JFrame;  
 
 public class GameScreen {
 	   public static void main(String[] args) {
